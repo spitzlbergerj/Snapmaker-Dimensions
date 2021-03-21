@@ -1,5 +1,7 @@
 deutsch - siehe unten
 
+see too: https://www.thingiverse.com/thing:4801214
+
 # Snapmaker-Dimensions
 
 I will put here my technical drawings of modules of Snapmaker 2.0 A350.
