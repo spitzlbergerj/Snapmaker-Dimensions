@@ -13,6 +13,10 @@ The drawings are made by simply measuring the dimensions. So tolerances are poss
 # Future of this repository
 Maybe one day Snapmaker will decide to publish some technical drawings. Then this repository is superfluous :-)
 
+# Other sources
+Meanwhile, there are other sources where dimensions of Sanpmaker dimensions can be found:
+https://forum.snapmaker.com/t/component-dimensions-for-a350/18852/17
+
 
 
 # Snapmaker Bemaßungen
@@ -24,3 +28,7 @@ Die Zeichnungen sind durch schlichtes Abmessen der Dimensionen entstanden. Toler
 
 # Hoffnung auf die Zukunft
 Vielleicht entschließt sich ja irgendwann Snapmaker selbst einige technische zeichnungen zu veröffentlichen. Dann ist dieses Repository überflüssig :-)
+
+# Andere Quellen
+Inzwischen gibt es weitere Quellen, an denen Abmessungen von Sanpmaker Dimensionen gefunden werden können:
+https://forum.snapmaker.com/t/component-dimensions-for-a350/18852/17
